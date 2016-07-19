@@ -1,0 +1,8 @@
+Hello, this is a random file.
+<<<<<<< HEAD
+Changing it.
+=======
+Changed the file.
+Git is Kkkooolllll :)
+>>>>>>> 7a94f2738f74e6a5ddb04ce6c2d5cccc45846807
+
